@@ -1,27 +1,29 @@
 {
-  "name": "smartdeskmpv3",
-  "version": "1.0.0",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^5.2.1"
-  },
-  "engines": {
-    "node": "24.x"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aminhajikhan/SmartDesk.git"
-  },
-  "bugs": {
-    "url": "https://github.com/aminhajikhan/SmartDesk/issues"
-  },
-  "homepage": "https://github.com/aminhajikhan/SmartDesk#readme",
-  "description": ""
+    "name":  "smartdeskmpv3",
+    "version":  "1.0.0",
+    "main":  "server.js",
+    "scripts":  {
+                    "start":  "node server.js",
+                    "test":  "echo \"Error: no test specified\" \u0026\u0026 exit 1"
+                },
+    "keywords":  [
+
+                 ],
+    "author":  "",
+    "license":  "ISC",
+    "dependencies":  {
+                         "express":  "^5.2.1"
+                     },
+    "engines":  {
+                    "node":  "24.x"
+                },
+    "repository":  {
+                       "type":  "git",
+                       "url":  "git+https://github.com/aminhajikhan/SmartDesk.git"
+                   },
+    "bugs":  {
+                 "url":  "https://github.com/aminhajikhan/SmartDesk/issues"
+             },
+    "homepage":  "https://github.com/aminhajikhan/SmartDesk#readme",
+    "description":  ""
 }
