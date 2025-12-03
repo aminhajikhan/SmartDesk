@@ -3,13 +3,22 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminhajikhan/SmartDesk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aminhajikhan/SmartDesk/issues"
+  },
+  "homepage": "https://github.com/aminhajikhan/SmartDesk#readme",
+  "description": ""
 }
